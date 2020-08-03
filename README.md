@@ -1,1 +1,1 @@
-# RinOS-graphics
+# R-graphics
